@@ -65,6 +65,17 @@ https://github.com/guildai/guild-examples/blob/master/mnist-2/intro.py
 
 ---
 
+### Frameworks
+
+<ul>
+<li class="fragment">Keras & TFLearn
+<li class="fragment">High level API
+</ul>
+
+<img class="fragment" src="api.jpg" height="400">
+
+---
+
 ## Use and Contribute!
 
 http://tensorflowpatterns.org

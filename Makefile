@@ -1,2 +1,4 @@
+PORT = 8080
+
 serve:
-	python -m SimpleHTTPServer 8000
+	python -m SimpleHTTPServer $(PORT)
