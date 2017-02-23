@@ -20,6 +20,14 @@ Chicago, Feb 23, 2017
 
 ---
 
+## Guild View
+
+<a href="https://guild.ai">
+<img src="img/guild-view-screen-6.png" height="500" style="border-radius:4px">
+</a>
+
+---
+
 ## It's Working <small>vs</small> It's Done
 
 ---
@@ -72,7 +80,7 @@ https://github.com/guildai/guild-examples/blob/master/mnist-2/intro.py
 <li class="fragment">High level API
 </ul>
 
-<img class="fragment" src="api.jpg" height="400">
+<img class="fragment" src="img/api.jpg" height="400">
 
 ---
 
@@ -113,3 +121,7 @@ http://tensorflowpatterns.org
 - https://github.com/guildai/guild-examples
 - http://guild.ai
 - http://tensorflow.org
+
+<p>
+
+Follow me on Twitter @gar1t
