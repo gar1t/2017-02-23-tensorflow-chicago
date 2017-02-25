@@ -124,4 +124,4 @@ http://tensorflowpatterns.org
 
 <p>
 
-Follow me on Twitter @gar1t
+I'm on Twitter @gar1t
